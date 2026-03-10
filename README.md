@@ -14,6 +14,8 @@ This addon can be useful in situations such as:
 * Your site has the same asset appearing in multiple places and you do not want them all to share the same focal point
 * You want to add "pins" to an image e.g. a map with interest points
 
+![statamic-focal-point-fieldtype](https://github.com/user-attachments/assets/e47226da-654e-4ef7-8df5-7179883b3798)
+
 ## Installation
 
 Require it using Composer.
