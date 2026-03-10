@@ -8,6 +8,8 @@ class FocalPointFieldtype extends Fieldtype
 {
     protected static $title = 'Focal Point';
 
+    protected static $handle = 'focalpoint';  
+    
     protected $categories = ['media'];
 
     protected $defaultValue = null;
