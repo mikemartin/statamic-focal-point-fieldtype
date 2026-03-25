@@ -64,9 +64,3 @@ If you are using [Responsive Images addon](https://github.com/spatie/statamic-re
     lg:glide:fit="crop-{ focal_point_desktop }"
 }}
 ```
-
-<!-- statamic:hide -->
-## Show support
-
-If you find my work helpful and of value, [consider showing appreciation](https://github.com/ncla/ncla/blob/main/SUPPORT.md).
-<!-- /statamic:hide -->
