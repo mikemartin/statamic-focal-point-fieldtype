@@ -9,6 +9,12 @@
         }
     },
     "extra": {
+        "download-dist": [
+            {
+                "url": "https://github.com/ncla/statamic-focal-point-fieldtype/releases/download/{$version}/dist.tar.gz",
+                "path": "resources/dist"
+            }
+        ],
         "statamic": {
             "name": "Focal Point Fieldtype",
             "description": "Store focal point separately from an asset"
